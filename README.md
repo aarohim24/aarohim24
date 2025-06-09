@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&center=false&vCenter=false&width=435&lines=Hello+there+%3A)" alt="Typing SVG" />
 </p>
 
-I try to code, I enjoy solving real-world problems & build things that matter.
+I try to code, solve real-world problems & build things that matter.
 
 ---
 
