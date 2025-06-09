@@ -28,11 +28,11 @@ I try to code, solve real-world problems & build things that matter.
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI-ML) undergrad student  
-- 🤖 Currently working on ML-related projects  
-- 🌱 Learning to contribute to open source  
-- ✨ Exploring and enjoying Generative AI  
-- 🚀 Always learning, always building  
+- 🎓 B.Tech CSE (AI-ML) undergrad student.
+- 🤖 Currently working on ML-related projects.  
+- 🌱 Learning to contribute to open source.  
+- ✨ Exploring and enjoying Generative AI.  
+- 🚀 Always learning, always building. 
 
 ---
 
