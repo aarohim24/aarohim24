@@ -12,7 +12,7 @@ I try to code, solve real-world problems & build things that matter.
 
 ---
 
-### 🛠️ Tech Stack & Languages
+### 🛠Tech Stack & Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -26,17 +26,17 @@ I try to code, solve real-world problems & build things that matter.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 B.Tech CSE (AI-ML) undergrad student.
-- 🤖 Currently working on ML-related projects.  
-- 🌱 Learning to contribute to open source.  
-- ✨ Exploring and enjoying Generative AI.  
-- 🚀 Always learning, always building. 
+-  B.Tech CSE (AI-ML) undergrad student.
+-  Currently working on ML-related projects.  
+-  Learning to contribute to open source.  
+-  Exploring and enjoying Generative AI.  
+-  Always learning, always building. 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarohim24&show_icons=true&theme=dark&hide_title=true" alt="aarohim24's GitHub stats" />
@@ -44,7 +44,7 @@ I try to code, solve real-world problems & build things that matter.
 
 ---
 
-### 📬 Contact Me
+###  Contact Me
 
 <p>
   <a href="mailto:aarohimathur247@gmail.com">
