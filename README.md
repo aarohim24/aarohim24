@@ -23,14 +23,6 @@
 </p>
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarohim24&show_icons=true&theme=dark&hide_title=true" alt="aarohim24's GitHub stats" />
-</p>
-
----
-
 ###  Contact Me
 
 <p>
