@@ -8,8 +8,6 @@
 
 ## I'm Aarohi Mathur.
 
-I try to code, solve real-world problems & build things that matter.
-
 ---
 
 ### 🛠Tech Stack & Languages
@@ -23,17 +21,6 @@ I try to code, solve real-world problems & build things that matter.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 </p>
-
----
-
-### About Me
-
--  B.Tech CSE (AI-ML) undergrad student.
--  Currently working on ML-related projects.  
--  Learning to contribute to open source.  
--  Exploring and enjoying Generative AI.  
--  Always learning, always building. 
-
 ---
 
 ### GitHub Stats
